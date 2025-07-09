@@ -1,0 +1,78 @@
+/* listar-cadastro.module.css */
+.tudo {
+    background-color: #ff6354;
+    padding: 20px;
+    /* Outras propriedades CSS */
+   
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 50px;
+    
+}
+ h2{
+    
+    margin-top: 50px;
+    font-size: 40px;
+ }
+
+ h3{
+    padding: 10px;
+font-size: 25px;
+
+ }
+
+.frame{
+    margin: 30px;
+}
+
+table{
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:aliceblue;
+    border: 1px solid black ;
+    border-radius: 20px;
+
+}
+thead tbody{
+    border-radius: 20px;
+}
+tr{
+    color: #000000;
+    font-weight: bolder;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black ;
+    border-radius: 20px 20px 0 0
+    
+}
+
+.conteudo{
+    border-radius: 0;
+    border-radius:  0 0 20px 20px;
+
+}
+
+th{
+    padding: 20px;
+    margin: 30px;
+    gap: 20px;
+   
+   
+}
+
+td{
+    font-weight: bolder;
+    color: black;
+    padding: 20px;
+    margin: 30px;
+    gap: 20px;
+    
+    
+    
+}

@@ -13,9 +13,7 @@ function App() {
 
       </main>
      
-      <footer>
-        <h1>FOOTER AQUI FINGE QUE O FOOTER ESTÁ AQUI</h1>
-      </footer>
+   
     </>
   )
 }
